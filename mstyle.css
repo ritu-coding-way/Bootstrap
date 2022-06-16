@@ -1,0 +1,9 @@
+h1{
+  font-size: 300px;
+  color:#ab8174;
+}
+media(min width:1000px){
+  h1{
+    color: green;
+  }
+}
